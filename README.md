@@ -1,4 +1,5 @@
-# class-repo-updated
-class repo to update after completing activities
+# Homework 1
 
-Homework 1 has been completed and files uploaded
+Updated the files so that the marketing agency website
+follows accessibility standards
+and is optimized for search engines
